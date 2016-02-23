@@ -1,0 +1,16 @@
+#div1{
+	margin-top: 40px;
+	width: 800px;
+	height:500px;
+	margin: auto;
+	box-sizing:border-box;
+	border:dotted 1 px red;
+	position: relative;
+}
+#div2{
+	position: absolute;
+	right: 20px;
+	background-color: red;
+	height: 50px;
+	width: 50px; 
+}

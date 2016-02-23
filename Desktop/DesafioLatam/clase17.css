@@ -1,0 +1,14 @@
+html, body{
+	height: 100%;
+	margin: 0;
+	padding:0;
+}
+
+div{
+	width: 25%;
+	height: 100%;
+	float: left;
+	padding: 30px;
+	border: solid 5px black;
+	box-sizing: border-box;
+}
